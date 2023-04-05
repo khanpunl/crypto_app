@@ -16,7 +16,7 @@ http://127.0.0.1:8000/crypto/address/
 
 Retrieve an address API:
 GET
-http://127.0.0.1:8000/crypto/address/<id>/
+http://127.0.0.1:8000/crypto/address/id/
 
 Create an address API:
 POST
